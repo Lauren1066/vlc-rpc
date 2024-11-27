@@ -13,7 +13,8 @@ Note: Timestamps have been restored! Huge thanks to [K3733](https://github.com/K
 Our [documentation](https://vlc-rpc.storinate.com/) has been moved! If it is down please join our [discord](https://discord.gg/7ctPkhmagy)!
 
 Note: Status will not show if activity privacy settings are enabled. Make sure others are allowed to view your status.
-![image](https://github.com/user-attachments/assets/b51d02b3-8f16-40d3-a041-2e5c7eb038c1)
+![image](https://github.com/user-attachments/assets/aa6c8bcb-eefa-47fd-a340-b3d4f80c10fb)
+
 
 
 ## Contributing Guidlines
