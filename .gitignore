@@ -1,0 +1,11 @@
+node_modules
+TODO
+Storage/config.js
+Media
+ffmpeg
+.temp/
+.cache/
+docs/.vuepress/dist
+custom_art.json
+coverage
+.nyc_output
