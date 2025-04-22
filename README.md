@@ -35,12 +35,5 @@ Some features are no longer working due to Discord updates. This includes:
 - Displaying buttons
 
 ## Getting Started (WIP)
-The basic setup steps are:
-1) Create an [application](https://discord.com/developers/applications)
-2) In the `Storage` folder, create a file called `config.js`. Then, copy the contents of `example_config.js` into `config.js`.
-3) Find the line that says `id`, around line 17. Go to your newly created application and look for `application id`, copy that and put the id number inside the single quotes.
-4) In the `Storage` folder, create a file called `sample_art.json`. Inside there all you need to put is `{}`.
-5) Run `npm i --omit=dev` in a terminal in the root directory.
-6) Run `node app.js` in the terminal. 
-
+https://github.com/Lauren1066/vlc-rpc/wiki/Setup
 
